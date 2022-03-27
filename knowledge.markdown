@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Birikim
 permalink: /knowledge/
 ---
 | Medya İsmi                                                                                                                                | Bitiş                                                   | Yıl               | Medya Türü | Etiket             |
