@@ -9,3 +9,5 @@ Hello world.
 **BAŞLIK**
 
  `YEAR` I hate  \` symbol
+
+alert("Hello, World!");
