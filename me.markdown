@@ -1,5 +1,5 @@
 layout: page
-title: "Hakkımda"
+title: Hakkımda
 permalink: /about/me
 
 **Başlık**
