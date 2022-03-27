@@ -10,4 +10,6 @@ Hello world.
 
  `YEAR` I hate  \` symbol
 
+<script type="text/javascript">
 alert("Hello, World!");
+</script>
