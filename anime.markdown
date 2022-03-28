@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Animeler
-permalink: /animeler
+permalink: /animeler/
 ---
 
 **İzlenilen Animeler**
